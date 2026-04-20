@@ -46,7 +46,6 @@ It demonstrates navigation between multiple pages using React Router and include
 ---
 
 
----
 
 ##  How to Run the Project
 
